@@ -1,0 +1,10 @@
+{
+  "Groceries": ["grocery", "supermarket", "market"],
+  "Dining": ["restaurant", "cafe", "coffee", "pizza"],
+  "Housing": ["rent", "mortgage"],
+  "Utilities": ["electric", "water", "internet", "gas"],
+  "Transportation": ["uber", "lyft", "transit", "fuel", "gas station"],
+  "Subscriptions": ["subscription", "streaming", "software"],
+  "Insurance": ["insurance"],
+  "Income": ["payroll", "salary", "bonus"]
+}
